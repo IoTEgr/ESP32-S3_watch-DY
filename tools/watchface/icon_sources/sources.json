@@ -1,0 +1,272 @@
+[
+  {
+    "name": "app_calculator",
+    "alt": "Calculator icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/83082150-756b-46b8-a124-e4ccec7da7c4",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_mindfulness",
+    "alt": "Mindfulness icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/b919be48-e8ef-4aa5-a0d2-8f3c050bf434",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_music",
+    "alt": "Music icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/aa3984b7-8524-4b18-b1d2-52f60fe3dfa3",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_notes",
+    "alt": "Notes icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/0617d85d-7907-4412-b7cd-581f4b378b22",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_now_playing",
+    "alt": "Now Playing icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/a452840e-7fa1-430f-a5a5-c071ca433865",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_photos",
+    "alt": "Photos icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/61eeecdb-8f80-42e6-81c9-097e303d94cd",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_remote",
+    "alt": "Remote icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/45a17270-2f42-4e72-9e4f-c9b6a7f59edc",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_settings",
+    "alt": "Settings icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/d7d4e2f1-ad61-472a-bf2b-7e92d5f54eb4",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_voice_memos",
+    "alt": "Voice Memos icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/5bbb8fc2-664c-4355-86cc-bb01bc54f1b4",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "app_world_clock",
+    "alt": "World Clock icon",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/4daa9443-a683-432e-ac51-7ac2ff5f5b76",
+    "page": "https://support.apple.com/en-ie/guide/watch/apda1bf1a95b/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_cellular_data",
+    "alt": "Cellular Data Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/9df8bd6b-f04b-49eb-a8b8-c76a4252fadf",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_wifi",
+    "alt": "Wi-Fi Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/d74747ec-12a7-4433-90df-8e435aa6e19c",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_airplane_mode",
+    "alt": "Airplane Mode Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/ad132e8e-625c-47b3-80f0-45a9a716ce7f",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_battery_power",
+    "alt": "Battery Power button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/5fae5985-c62f-4e39-846b-ce68a3146c10",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_ping_iphone",
+    "alt": "Ping iPhone Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/71a830f6-eb75-419a-b08c-91bfe2aadf8a",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_flashlight",
+    "alt": "Flashlight Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/275ce10c-2cf8-4d35-ac3c-328a7d621e28",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_focus",
+    "alt": "Focus Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/f0979fe2-5aab-4f0d-aa63-6d522ef25106",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_silent_mode",
+    "alt": "Silent Mode Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/fd43b98b-03f0-4690-a503-c43fca77fac0",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_water_lock",
+    "alt": "Water Lock Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/72e23d2a-97b9-47e2-8d8c-500867137a7a",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_theater_mode",
+    "alt": "Theater Mode Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/6a5d7cb3-a4ed-4cac-99e9-32de07a59252",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_volume",
+    "alt": "Volume button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/c20c2126-17b8-438c-9491-ffb0fc4db67f",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_airplay",
+    "alt": "AirPlay Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/3e98d777-74d0-4649-b221-6c758b164d35",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_text_size",
+    "alt": "Text Size Switch button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/9e2bfed5-919b-4a91-a0f7-414a80f74af4",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      96,
+      96
+    ]
+  },
+  {
+    "name": "control_the_add",
+    "alt": "the Add button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/8a22f7e8-d67e-4d79-b065-9d2303069b2a",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      60,
+      60
+    ]
+  },
+  {
+    "name": "control_the_close",
+    "alt": "the Close button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/d08e78ff-b767-4a3f-b018-fd9b96f2fb45",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      62,
+      60
+    ]
+  },
+  {
+    "name": "control_the_delete",
+    "alt": "the Delete button",
+    "url": "https://ipcdn-web.apple.com/assets/v2/web/82acc7ca-127c-4e57-a24d-be3a8ae9b0d9",
+    "page": "https://support.apple.com/en-ie/guide/watch/apd06bc15da1/27/watchos/27",
+    "size": [
+      68,
+      60
+    ]
+  },
+  {
+    "name": "app_chatgpt",
+    "alt": "ChatGPT (OpenAI)",
+    "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/23/eb/3023ebb0-1e40-6314-9909-f490a704b5d1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+    "page": "https://itunes.apple.com/lookup?id=6448311069&country=us",
+    "size": [
+      512,
+      512
+    ]
+  }
+]

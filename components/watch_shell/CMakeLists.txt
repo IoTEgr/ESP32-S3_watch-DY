@@ -1,0 +1,59 @@
+idf_component_register(
+    SRCS
+        "watch_shell.cpp"
+        "watch_launcher.cpp"
+        "watch_launcher_view.c"
+        "assets/launcher_overview.c"
+        "watch_control.cpp"
+        "watch_control_view.c"
+        "watch_control_effect.c"
+        "watch_face_view.c"
+        "assets/face_bg.c"
+        "assets/font_clock.c"
+        "assets/font_meta.c"
+        "assets/font_phrase.c"
+        "assets/font_phrase_large.c"
+        "assets/font_phrase_small.c"
+        "assets/wx_qing.c"
+        "assets/wx_yun.c"
+        "assets/wx_yin.c"
+        "assets/wx_yu.c"
+        "assets/wx_lei.c"
+        "assets/wx_xue.c"
+        "assets/wx_wu.c"
+        "assets/font_control.c"
+        "assets/font_control_small.c"
+        "assets/font_control_large.c"
+        "assets/cc_wifi.c"
+        "assets/cc_wifi_small.c"
+        "assets/cc_battery.c"
+        "assets/cc_mute.c"
+        "assets/cc_torch.c"
+        "assets/cc_brightness.c"
+        "assets/cc_volume.c"
+        "assets/cc_airplane.c"
+        "assets/cc_wrist.c"
+        "assets/cc_haptic.c"
+        "assets/cc_awake.c"
+        "assets/cc_lock.c"
+        "assets/cc_timer.c"
+        "assets/cc_power.c"
+        "assets/cc_settings.c"
+    INCLUDE_DIRS "include"
+    REQUIRES
+        brookesia_core
+        lvgl__lvgl
+        bsp_extra
+        freertos
+        board_keys
+        system_status
+        weather_service
+        wrist_gesture
+        waveshare__esp32_s3_touch_amoled_2_06
+        esp_common
+        esp_system
+        esp_hw_support
+    PRIV_REQUIRES XiaozhiApp watch_power esp_lvgl_port
+)
+
+target_compile_options(${COMPONENT_LIB} PRIVATE -Wno-missing-field-initializers)

@@ -1,0 +1,14 @@
+idf_component_register(
+    SRCS
+        "weather_service.c"
+    INCLUDE_DIRS
+        "include"
+    REQUIRES
+        esp_http_client
+        esp_timer
+        esp_netif
+        esp_event
+        espressif__cjson
+        nvs_flash
+        freertos
+)

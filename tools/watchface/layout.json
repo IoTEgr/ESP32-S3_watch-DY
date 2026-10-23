@@ -1,0 +1,34 @@
+{
+  "width": 410, "height": 502,
+  "colors": {"background": "F3EFF9", "time": "586FAC", "meta": "687EAB", "phrase": "A6A1C5", "track": "DEE5F3", "fill_a": "A6C8ED", "fill_b": "86B6E6"},
+  "time": {"x": -3, "y": 70},
+  "date": {"x": 111, "y": 44, "letter_space": 2},
+  "weekday": {"right": 286, "y": 44},
+  "battery": {"x": 99, "y": 156, "w": 99, "h": 14},
+  "weather": {"x": 208, "y": 140, "w": 50, "h": 38},
+  "temperature": {"x": 279, "y": 151},
+  "animation": {"center_x": 205, "center_y": 312, "scale": 277},
+  "scenes": [
+    {"name": "cheeky", "gif": 11, "phrases": [
+      ["笨蛋",44,205,"left","normal"], ["对不起我对了",383,184,"right","small"],
+      ["哼",36,320,"left","large"], ["^-w-^",370,316,"right","small"],
+      ["略略略",44,409,"left","normal"], ["大事很妙",383,410,"right","normal"]
+    ]},
+    {"name": "lick", "gif": 7, "phrases": [
+      ["^-τ-マ",18,205,"left","normal"], ["Look at 咪",388,182,"right","normal"],
+      ["咪瑜伽",9,282,"left","small"], ["萌",16,352,"left","normal"],
+      ["喵",384,340,"right","normal"], ["rPr~",385,405,"right","large"]
+    ]},
+    {"name": "steady", "gif": 8, "phrases": [
+      ["稳住！",24,216,"left","normal"], ["还在硬撑",385,197,"right","small"],
+      ["汗",13,310,"left","large"], ["？",353,265,"right","large"],
+      ["^-w-^",373,334,"right","small"], ["尬",25,419,"left","normal"],
+      ["莫慌",384,406,"right","normal"]
+    ]},
+    {"name": "soft", "gif": 3, "phrases": [
+      ["为什么",11,207,"left","normal"], ["我真的特别爱你",363,191,"right","normal"],
+      ["喵",398,270,"right","large"], ["你会落泪",8,406,"left","large"],
+      ["-w-",373,405,"right","normal"]
+    ]}
+  ]
+}

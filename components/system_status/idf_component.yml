@@ -1,0 +1,4 @@
+version: 0.1.0
+dependencies:
+  idf: ">=5.5,<6.2"
+  cube32esp/xpowerslib: "^0.3.3"

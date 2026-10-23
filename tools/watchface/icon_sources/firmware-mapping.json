@@ -1,0 +1,68 @@
+[
+  {
+    "component": "Gravitysphere",
+    "symbol": "img_app_qmi8658ball",
+    "reference": "mindfulness",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/b919be48-e8ef-4aa5-a0d2-8f3c050bf434"
+  },
+  {
+    "component": "Rtc",
+    "symbol": "img_app_rtc",
+    "reference": "world_clock",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/4daa9443-a683-432e-ac51-7ac2ff5f5b76"
+  },
+  {
+    "component": "brookesia_app_calculator",
+    "symbol": "img_app_calculator",
+    "reference": "calculator",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/83082150-756b-46b8-a124-e4ccec7da7c4"
+  },
+  {
+    "component": "draw",
+    "symbol": "img_app_drawpanel",
+    "reference": "notes",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/0617d85d-7907-4412-b7cd-581f4b378b22"
+  },
+  {
+    "component": "SpecAnalyzer",
+    "symbol": "img_app_specanalyzer",
+    "reference": "now_playing",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/a452840e-7fa1-430f-a5a5-c071ca433865"
+  },
+  {
+    "component": "MusicPlayer",
+    "symbol": "img_app_musicplayer",
+    "reference": "music",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/aa3984b7-8524-4b18-b1d2-52f60fe3dfa3"
+  },
+  {
+    "component": "Gallery",
+    "symbol": "img_app_gallery",
+    "reference": "photos",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/61eeecdb-8f80-42e6-81c9-097e303d94cd"
+  },
+  {
+    "component": "VideoPlayer",
+    "symbol": "img_app_vedioplayer",
+    "reference": "remote",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/45a17270-2f42-4e72-9e4f-c9b6a7f59edc"
+  },
+  {
+    "component": "Recorder",
+    "symbol": "img_app_recorder",
+    "reference": "voice_memos",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/5bbb8fc2-664c-4355-86cc-bb01bc54f1b4"
+  },
+  {
+    "component": "Settings",
+    "symbol": "img_app_settings",
+    "reference": "settings",
+    "source": "https://ipcdn-web.apple.com/assets/v2/web/d7d4e2f1-ad61-472a-bf2b-7e92d5f54eb4"
+  },
+  {
+    "component": "XiaozhiApp",
+    "symbol": "img_app_xiaozhi",
+    "reference": "chatgpt",
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/23/eb/3023ebb0-1e40-6314-9909-f490a704b5d1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg"
+  }
+]

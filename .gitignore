@@ -1,0 +1,31 @@
+# ESP-IDF generated dependencies and build products
+/build*/
+/managed_components/
+/output/
+/sdkconfig
+/sdkconfig.old
+
+# Local tools, conversations and machine-specific editor configuration
+/.workbuddy/
+/.codex/
+/.agents/
+/.vscode/
+/.clangd
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.log
+
+# Private service configuration and credentials
+*.local.h
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Keep original photographs locally; publish metadata-free README copies.
+/pic/*.jpg
+/pic/*.jpeg
+/pic/*.png
